@@ -1,0 +1,15 @@
+C:\Users\willi\OneDrive\Documents\projects-c#\ProductGenerator\ProductGenerator\ProductGenerator\bin\Debug\net6.0\ProductGenerator.exe
+C:\Users\willi\OneDrive\Documents\projects-c#\ProductGenerator\ProductGenerator\ProductGenerator\bin\Debug\net6.0\ProductGenerator.deps.json
+C:\Users\willi\OneDrive\Documents\projects-c#\ProductGenerator\ProductGenerator\ProductGenerator\bin\Debug\net6.0\ProductGenerator.runtimeconfig.json
+C:\Users\willi\OneDrive\Documents\projects-c#\ProductGenerator\ProductGenerator\ProductGenerator\bin\Debug\net6.0\ProductGenerator.dll
+C:\Users\willi\OneDrive\Documents\projects-c#\ProductGenerator\ProductGenerator\ProductGenerator\bin\Debug\net6.0\ProductGenerator.pdb
+C:\Users\willi\OneDrive\Documents\projects-c#\ProductGenerator\ProductGenerator\ProductGenerator\obj\Debug\net6.0\ProductGenerator.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Documents\projects-c#\ProductGenerator\ProductGenerator\ProductGenerator\obj\Debug\net6.0\ProductGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Documents\projects-c#\ProductGenerator\ProductGenerator\ProductGenerator\obj\Debug\net6.0\ProductGenerator.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Documents\projects-c#\ProductGenerator\ProductGenerator\ProductGenerator\obj\Debug\net6.0\ProductGenerator.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Documents\projects-c#\ProductGenerator\ProductGenerator\ProductGenerator\obj\Debug\net6.0\ProductGenerator.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Documents\projects-c#\ProductGenerator\ProductGenerator\ProductGenerator\obj\Debug\net6.0\ProductGenerator.dll
+C:\Users\willi\OneDrive\Documents\projects-c#\ProductGenerator\ProductGenerator\ProductGenerator\obj\Debug\net6.0\refint\ProductGenerator.dll
+C:\Users\willi\OneDrive\Documents\projects-c#\ProductGenerator\ProductGenerator\ProductGenerator\obj\Debug\net6.0\ProductGenerator.pdb
+C:\Users\willi\OneDrive\Documents\projects-c#\ProductGenerator\ProductGenerator\ProductGenerator\obj\Debug\net6.0\ProductGenerator.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Documents\projects-c#\ProductGenerator\ProductGenerator\ProductGenerator\obj\Debug\net6.0\ref\ProductGenerator.dll
