@@ -6,8 +6,6 @@ namespace ProductGenerator
     {
         static void Main(string[] args)
         {
-            try
-            {
                 List<Product> productList = new List<Product>();
 
                 Console.Write("Enter the number of products: ");
@@ -52,12 +50,6 @@ namespace ProductGenerator
                 {
                     Console.WriteLine($"{prod.Name} ${prod.PriceTag()}");
                 }
-            }
-            catch (IOException e)
-            {
-                Console.WriteLine("Something went wrong!");
-                Console.WriteLine(e.Message);
-            }
         }
     }
 }
