@@ -17,7 +17,7 @@
 
         public override string PriceTag()
         {
-            return $"{Name} ${TotalPrice().ToString("F2")} (Customs fee: ${CustomsFee})";
+            return $"{Name} ${TotalPrice().ToString("F2")} (Customs fee: ${CustomsFee.ToString("F2")})";
         }
     }
 }
